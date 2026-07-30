@@ -34,6 +34,10 @@ Cursando programação na [sudotec](https://sudotec.org.br/) dois vizinhos
 
 <img src="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake-dark.svg"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 </div>
 
 ---
