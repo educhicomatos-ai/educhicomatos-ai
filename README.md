@@ -29,3 +29,17 @@ Cursando programação na [sudotec](https://sudotec.org.br/) dois vizinhos
 </div>
 
 ###
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=educhicomatos-ai&style=for-the-badge&color=blue)
+
+</div>
