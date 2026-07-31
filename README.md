@@ -30,16 +30,19 @@ Cursando programação na [sudotec](https://sudotec.org.br/) dois vizinhos
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=educhicomatos-ai&style=for-the-badge&color=blue)
-
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/educhicomatos-ai/educhicomatos-ai/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
